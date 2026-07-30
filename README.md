@@ -4,7 +4,7 @@
 
 ---
 
-## What is CodeForge AI?
+ What is CodeForge AI?
 
 CodeForge AI is a full-stack SaaS application that simulates a senior engineering team. You type your idea in plain English. Four AI agents — each with a distinct role — work sequentially to produce a professional software blueprint covering requirements, architecture, backend design, and QA.
 
