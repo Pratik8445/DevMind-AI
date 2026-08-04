@@ -1,4 +1,4 @@
-# CodeForge AI
+CodeForge AI
 
 > Transform a raw startup idea into a complete software blueprint in seconds — powered by a pipeline of 4 specialized AI agents.
 
