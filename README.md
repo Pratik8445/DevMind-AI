@@ -1,12 +1,15 @@
-CodeForge AI
+DevMind-AI
+
 
 > Transform a raw startup idea into a complete software blueprint in seconds — powered by a pipeline of 4 specialized AI agents.
 
 ---
 
- What is CodeForge AI?
+ What is DevMind-AI
+?
 
-CodeForge AI is a full-stack SaaS application that simulates a senior engineering team. You type your idea in plain English. Four AI agents — each with a distinct role — work sequentially to produce a professional software blueprint covering requirements, architecture, backend design, and QA.
+DevMind-AI
+ is a full-stack SaaS application that simulates a senior engineering team. You type your idea in plain English. Four AI agents — each with a distinct role — work sequentially to produce a professional software blueprint covering requirements, architecture, backend design, and QA.
 
 What normally takes a team of engineers 1–2 weeks to plan gets produced in under 30 seconds.
 
