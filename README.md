@@ -80,7 +80,7 @@ A complete, production-ready SaaS with:
 ## Project Structure
 
 ```
-CodeForge-AI/
+DevMind-AI/
 ├── backend/
 │   ├── src/
 │   │   ├── server.js              ← Express app entry point
